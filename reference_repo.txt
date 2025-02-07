@@ -1,0 +1,4 @@
+https://github.com/CanhuiLiPhy/Modern-Physics-Lab-I.git
+https://github.com/CanhuiLiPhy/ModernPhysicsLab.git
+https://github.com/CanhuiLiPhy/PKUModernPhyLabReport_LaTeX.git
+https://github.com/CanhuiLiPhy/ModPhyLab.git
